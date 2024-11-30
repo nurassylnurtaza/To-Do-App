@@ -1,0 +1,14 @@
+/* Basic styles for layout */
+
+.todo-item.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.todo-enter-active, .todo-leave-active {
+  transition: opacity 0.5s;
+}
+
+.todo-enter, .todo-leave-to {
+  opacity: 0;
+}

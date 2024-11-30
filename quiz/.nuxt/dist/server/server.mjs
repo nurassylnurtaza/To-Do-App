@@ -1,0 +1,1 @@
+export { default } from "file:///Users/nurasylnurtaza/Desktop/To-Do-App/quiz/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
